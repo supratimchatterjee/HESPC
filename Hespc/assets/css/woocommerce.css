@@ -1,0 +1,281 @@
+
+.woocommerce div.product form.cart .button, .woocommerce a.button.wc-forward, .woocommerce .products a.button  {
+	background: #17a1b4 !important;
+	border-radius: 3px;
+	box-shadow: 7px -50px 14px -22px #138190 inset;
+	color: #fff;
+	font-family: "Lato",sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 28px;
+	min-height: 24px;
+	text-transform: capitalize;
+	text-align: center;
+}
+
+.woocommerce a.button.wc-forward:hover {
+	box-shadow: 7px 50px 14px -22px #138190 inset;
+}
+
+.woocommerce input.button {
+	background-color: #dfdcde;
+}
+
+.woocommerce .quantity .qty.text { height: 30px; }
+
+.woocommerce .product_meta .posted_in {
+	color: #2f2e2e;
+   font-family: "Lato",sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   letter-spacing: 1px;
+
+
+}
+
+
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+	}
+
+	.embed-container iframe,
+	.embed-container object,
+	.embed-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	}
+
+
+	.acf-map {
+		width: 100%;
+		height: 520px;
+
+	}
+
+/* contact Form*/
+
+#gform_1 .gfield_label {
+display: none;
+}
+
+#gform_1 .gform_button.button {
+    padding: 0;
+	padding: 10px 20px;
+	width: 105px;
+	text-align: center;
+	background: #1f5fa9;
+   border-radius: 3px;
+   box-shadow: 7px 32px 8px -22px #114b8f inset;
+   color: #fff;
+   font-size: 16px;
+   font-weight: 600;
+   text-transform: uppercase;
+	border: medium none;
+
+}
+
+
+
+body .gform_wrapper ul li.gfield {
+	margin-top: 10px !important;
+}
+.gform_wrapper .gform_footer {
+    margin: 10px 0 0 !important;
+}
+
+.give-feedback {
+    border-left: 2px solid #1f5fa9;
+	box-shadow: 0px 2px 3px 0px #c8c6c8;
+	padding: 40px 30px 55px 30px;
+}
+
+
+.give-feedback .gform_wrapper {
+    margin-top: 7px;
+	margin-bottom: 0px;
+}
+
+#gform_1 input[type="text"], #gform_1 textarea {
+background-color: #f6f6f6;
+color: #b5b4b4; border: none;
+border-radius: 5px;
+padding: 6px 17px;
+font-size: 14px;
+font-weight: 400;
+font-family: "Lato",sans-serif;
+}
+
+#gform_1 textarea { height: 135px;}
+
+#gform_1  .gform_wrapper .gform_footer {
+    padding: 16px 0 10px;
+    margin: 0px 0 0;
+
+}
+
+.contact-us-block .contact-info .panel-body {
+padding-bottom: 166px;
+}
+
+.contact-social.uk-navbar-nav li a.smGlobalBtn{
+	width: 30px;
+  	height: 30px;
+  	border-radius: 15px;
+	color: #1f5fa9;
+	border: 2px solid #1f5fa9;
+	text-align: center;
+	padding: 6px 0px;
+	line-height: 4px;
+}
+
+.contact-social.uk-navbar-nav > li {
+	padding-left: 15px;
+}
+.contact-social.uk-navbar-nav li:first-child{
+	padding-left: 0px;
+}
+.contact-social.uk-navbar-nav > li > a {
+    display: inline-block;
+}
+
+
+
+
+#gform_wrapper_2 #gform_2 input[type="text"], #gform_wrapper_2 #gform_2 .wp-editor-container {
+	background-color: #f6f6f6;
+	border: medium none;
+	border-radius: 5px;
+	color: #b5b4b4;
+	font-family: "Lato",sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	padding: 6px 17px;
+}
+
+#gform_wrapper_2 #gform_2 #gform_submit_button_2 {
+    background: #17a1b4 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 3px;
+    box-shadow: 7px 32px 8px -22px #138190 inset;
+    color: #fff;
+    font-family: "Oswald Medium",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 105px;
+}
+
+
+/* page navi */
+
+.wp-pagenavi span.pages{ display: none;}
+
+.wp-pagenavi span.current {
+    padding: 10px 15px;
+	background-color: #18a3b6;
+	font-size: 18px;
+	border: medium none;
+	color:#fff;
+}
+
+.wp-pagenavi a.larger {
+background-color: #fff;
+padding: 10px 15px;
+font-size: 18px;
+border: medium none;
+}
+
+.wp-pagenavi a.nextpostslink, .wp-pagenavi a.previouspostslink {
+display: none;
+}
+
+.wp-pagenavi a:hover{
+text-decoration: none;
+border: medium none;
+font-size: 18px;
+}
+
+.wp-pagenavi a.page {
+border: medium none;
+background-color: #fff;
+padding: 10px 15px;
+font-size: 18px;
+}
+
+.wp-pagenavi a, .wp-pagenavi span.current { margin-right: 16px; color:#414141}
+.single-product .widget-area { display: none;}
+
+.uk-panel.widget h5 {
+padding: 16px 0px 16px 24px;
+background-color: #18a3b6;
+color: #ffffff;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+font-family: 'Oswald', sans-serif
+
+}
+
+.uk-panel.widget ul { list-style: none; padding-left: 22px; margin: 10px 0!important;}
+.uk-panel.widget ul li {
+padding-bottom: 5px;
+}
+.uk-panel.widget ul li a {
+text-decoration: none;
+color: #000000;
+font-family: "Lato",sans-serif;
+font-size: 16px;
+line-height: 22px;
+font-weight: 400;
+text-transform: capitalize;
+}
+
+.uk-panel.widget {
+border-bottom:  2px solid #18a3b6;
+}
+.uk-navbar-flip .search-submit{ display: none;}
+.uk-navbar-flip .screen-reader-text{ display: none;}
+.uk-navbar-flip .search-field {
+border: 1px solid #c6bfbf;
+position: relative;
+top: -6px;
+right: 6px;
+padding: 3px 5px;
+}
+.search-results .uk-icon-arrow-right {
+    margin-right: 16px;
+}
+.search-results a { text-decoration: none;}
+.search-results h4.uk-text{ font-family:"Lato",sans-serif; color: #a0558d; }
+
+
+/**/
+.uk-nav-offcanvas li.tm-donate a {
+	height: 20px;
+	line-height: 20px;
+	margin-top: 7px;
+	background: #1f5fa9;
+	color: #fff;
+	-webkit-box-shadow: inset 2px 50px 31px -26px #1f5fa9;
+	-moz-box-shadow: inset 2px 50px 31px -26px #1f5fa9;
+	box-shadow: inset 2px 50px 31px -26px #1f5fa9;
+	font-weight: 500;
+	border-radius: 3px;
+	font-family: 'Oswald', sans-serif;
+	position: relative;
+	display: block;
+	text-align: center;
+
+
+}
+.uk-nav-offcanvas li.tm-donate:hover a { box-shadow: inset 2px 50px 31px -26px #1f5fa9 !important; }

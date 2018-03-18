@@ -1,0 +1,131 @@
+
+.woocommerce div.product form.cart .button, .woocommerce a.button.wc-forward, .woocommerce .products a.button  {
+	background: #17a1b4 none repeat scroll 0 0;
+	border-radius: 3px;
+	box-shadow: 7px 32px 8px -22px #138190 inset;
+	color: #fff;
+	font-family: "Lato",sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 23px;
+	min-height: 24px;
+	text-transform: capitalize;
+	width: 100px;
+	text-align: center;
+}
+
+.woocommerce .quantity .qty.text { height: 30px; }
+
+.woocommerce .product_meta .posted_in {
+	color: #2f2e2e;
+   font-family: "Lato",sans-serif;
+   font-size: 18px;
+   font-weight: 700;
+   letter-spacing: 1px;
+
+
+}
+
+
+.embed-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+	}
+
+	.embed-container iframe,
+	.embed-container object,
+	.embed-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	}
+
+
+	.acf-map {
+		width: 100%;
+		height: 520px;
+
+	}
+
+/* contact Form*/
+
+#gform_1 .gfield_label {
+display: none;
+}
+
+#gform_1 .gform_button.button {
+    padding: 0;
+	padding: 10px 35px;
+	background: #17a1b4 none repeat scroll 0 0;
+   border-radius: 3px;
+   box-shadow: 7px 32px 8px -22px #138190 inset;
+   color: #fff;
+   font-family: "Oswald Medium",sans-serif;
+   font-size: 16px;
+   font-weight: 500;
+   text-transform: uppercase;
+	border: medium none;
+
+}
+
+
+.give-feedback {
+    border-left: 2px solid #18a3b6;
+	box-shadow: 0px 2px 3px 0px #c8c6c8;
+	padding: 40px 30px 55px 30px;
+}
+
+
+.give-feedback .gform_wrapper {
+    margin-top: 7px;
+	margin-bottom: 0px;
+}
+
+#gform_1 input[type="text"], #gform_1 textarea {
+background-color: #f6f6f6;
+color: #b5b4b4; border: none;
+border-radius: 5px;
+padding: 6px 17px;
+font-size: 14px;
+font-weight: 400;
+font-family: "Lato",sans-serif;
+}
+
+#gform_1 textarea { height: 135px;}
+
+#gform_1  .gform_wrapper .gform_footer {
+    padding: 16px 0 10px;
+    margin: 0px 0 0;
+
+}
+
+.contact-us-block .contact-info .panel-body {
+padding-bottom: 144px;
+}
+
+.contact-social.uk-navbar-nav li a.smGlobalBtn{
+	width: 30px;
+  	height: 30px;
+  	border-radius: 15px;
+	color: #2c9aa8;
+	border:2px solid #2c9aa8;
+	text-align: center;
+	padding: 6px 0px;
+	line-height: 4px;
+}
+
+.contact-social.uk-navbar-nav > li {
+	padding-left: 15px;
+}
+.contact-social.uk-navbar-nav li:first-child{
+	padding-left: 0px;
+}
+.contact-social.uk-navbar-nav > li > a {
+    display: inline-block;
+}
